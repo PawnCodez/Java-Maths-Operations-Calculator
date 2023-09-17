@@ -511,6 +511,7 @@ public class MD_Maths_Operations
 
             default:
                 System.out.println("Wrong Input\nPlease Check The Operation.");
+                break;
         }
     }
 }
