@@ -1,5 +1,5 @@
 //𝒲𝐸𝐿𝒞𝒪𝑀𝐸!
-//View the repository at https://github.com/PawnCodez/Java-Maths-Operations-Calculator/
+//View the repository at https://github.com/PawnCodez/Normal_Original-Java-Maths-Operations-Calculator
 import java.lang.*;
 import java.util.Scanner;
 public class MD_Maths_Operations
